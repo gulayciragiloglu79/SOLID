@@ -69,8 +69,6 @@ public class Notification
      message.sendMessage();
    }
   }
-}
-
-
+ 
 }
 
